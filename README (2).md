@@ -1,15 +1,15 @@
-Hello👋 My name is Tom "JoKeR"
+Hello👋 My name is Placida Fernando
 ======================
 
-Full Stack Web Developer
+Director Enterprise Architecture
 ------------------------
 
-Full Stack Web Developer & Discord Bot Developer
+My hobby is to keep things simple and help struggling FIs to improve/automate their processes to be differentiators among others
 
-* 🌍  Based in England (UK)
-* 🖥️  See my portfolio at [My Portfolio](https://tomdev.xyz)
-* ✉️  You can contact me at [contact@tomdev.xyz](https://tomdev.xyz/contact)
-* 🚀  Currently working on [Conflict Roleplay](https://discord.gg/uuYdafHBNv) / [tomdev.xyz](https://tomdev.xyz)
+* 🌍  Based in Pennsylvania (USA)
+* 🖥️  See my portfolio at [My Portfolio](https://placidass.xyz)
+* ✉️  You can contact me at [contact@placidass.xyz](https://placidass.xyz/contact)
+* 🚀  Currently working on [Conflict Roleplay](https://discord.gg/uuYdafHBNv) / [placidass.xyz](https://placidass.xyz)
 * 🧠  Learning How to create a fully custom FiveM & RedM Framework
 * 🤝  I'm open to collaborating on any of my projects, Just get in contact
 * ⚡  Why so serious?!
@@ -42,13 +42,13 @@ Full Stack Web Developer & Discord Bot Developer
 <b>My GitHub Stats</b>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; margin-bottom: 1rem;">
-  <a href="http://www.github.com/JoKeRxTD">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="JoKeRxTD's GitHub stats" />
+  <a href="http://www.github.com/maofthree">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoKeRxTD&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="Placida's GitHub stats" />
   </a>
 </p>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; margin-bottom: 1rem;">
-  <a href="http://www.github.com/JoKeRxTD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=onedark" alt="JoKeRxTD's GitHub stats" />
+  <a href="http://www.github.com/maofthree">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoKeRxTD&layout=compact&theme=onedark" alt="Placida's GitHub stats" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@ Full Stack Web Developer & Discord Bot Developer
 
 <ul style="list-style-type: none; margin: 0; padding: 0;">
   <li style="display: inline-block; margin-right: 0.25rem;">
-    <a href="https://www.ko-fi.com/jokerxtd">
+    <a href="https://www.ko-fi.com/lacidass">
       <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
     </a>
   </li>
